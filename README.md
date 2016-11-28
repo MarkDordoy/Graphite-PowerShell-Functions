@@ -4,8 +4,6 @@ A group of PowerShell functions that allow you to send Windows Performance count
 
 This work is all from MattHodge Repo https://github.com/MattHodge/Graphite-PowerShell-Functions but with some small modification by myself to now allow a service status to be sent. If the service is up it sends a 1, if it is down it sends a 0. 
 
-[![GitHub Version]](https://github.com/MarkDordoy/Graphite-PowerShell-Functions/releases)
-
 More details at [http://www.hodgkins.net.au/mswindows/using-powershell-to-send-metrics-graphite/](http://www.hodgkins.net.au/mswindows/using-powershell-to-send-metrics-graphite/)
 
 ## Features
